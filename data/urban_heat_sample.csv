@@ -1,0 +1,13 @@
+"district_id","district_name","zone_type","area_sqkm","population","median_income_usd","tree_canopy_pct","impervious_surface_pct","albedo_baseline","surface_temp_c","ambient_temp_c","elderly_pct","poverty_rate_pct","annual_heat_hospitalizations","grid_peak_load_mw","substation_capacity_mw","centroid_lat","centroid_lon","heat_anomaly_c","grid_utilization_pct","mhvi_score","risk_tier","annual_cooling_cost_usd"
+"DST-01","Downtown Metro Core","Commercial Dense",4.8,48000,78000,6.5,88,0.12,39.8,34.2,12.4,14.2,88,64.5,70,37.7749,-122.4194,6.2,92.1,52.8,"Moderate",3529440
+"DST-02","East Industrial Belt","Heavy Industrial",8.2,14000,34000,3.2,94.5,0.09,43.2,36.8,15.8,29.5,76,88,92,37.765,-122.385,8.8,95.7,68.7,"High Risk",4815360
+"DST-03","Old Town Heritage","Historical Mixed",3.5,31000,42000,11,82,0.14,38.4,33.5,24.5,23,115,39,42,37.788,-122.408,5.5,92.9,50.1,"Moderate",2134080
+"DST-04","South Dense Residential","High-Density Residential",6.1,72000,31000,5.8,89.2,0.11,41.6,35.9,21,32.8,198,78.5,82,37.742,-122.435,7.9,95.7,63.8,"High Risk",4295520
+"DST-05","West Tech Corridor","Commercial Modern",5.4,26000,96000,18.2,74,0.18,35.1,31.4,8.2,7.5,22,45,55,37.795,-122.45,3.4,81.8,30.7,"Low Risk",2462400
+"DST-06","North Green Suburbs","Low-Density Residential",9.5,34000,89000,36.4,48,0.22,31.8,29.2,19.5,6.2,18,38,50,37.82,-122.44,1.2,76,14.2,"Low Risk",2079360
+"DST-07","Riverside Waterfront","Recreational Mixed",4.2,21000,68000,28.5,58,0.2,33.2,30.1,14.2,12,26,28.5,36,37.755,-122.395,2.1,79.2,22.1,"Low Risk",1559520
+"DST-08","Port & Freight Logistics","Industrial Logistics",7.6,9500,36000,2.1,96,0.08,44.1,37.4,11,27.4,49,92,95,37.73,-122.37,9.4,96.8,70.9,"High Risk",5034240
+"DST-09","University Quarter","Institutional",3.8,29000,41000,22,68,0.17,34.6,31,5.5,24,31,34,42,37.805,-122.428,3,81,29.9,"Low Risk",1860480
+"DST-10","Highland Hills","Suburban Green",11.2,18000,105000,44.5,38,0.25,30.5,28.5,22,4.8,12,22,35,37.835,-122.47,0.5,62.9,6.9,"Low Risk",1203840
+"DST-11","Healthcare Medical Park","Public Institutional",2.9,12000,64000,16.5,76,0.16,36.2,32.1,16.8,11.5,38,29,35,37.768,-122.448,4.1,82.9,37.2,"Moderate",1586880
+"DST-12","Railway Transit Hub","Transit Core",3.1,39000,38000,7.2,87.5,0.11,40.5,35,18.4,26.2,112,51,54,37.758,-122.412,7,94.4,58,"Moderate",2790720
